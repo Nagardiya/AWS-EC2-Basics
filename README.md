@@ -1,16 +1,16 @@
 # AWS-EC2-Basics
 Amazon EC2 (Elastic Compute Cloud) is an AWS service that provides virtual servers in the cloud.
 
-Key Points
+Key Points :>
 
-Launch and manage virtual servers.
+1.Launch and manage virtual servers.
 
-Deploy and run applications such as FastAPI.
+2.Deploy and run applications such as FastAPI.
 
-Configure operating systems, networking, and security.
+3.Configure operating systems, networking, and security.
 
-Scale server resources based on application requirements.
+4.Scale server resources based on application requirements.
 
-Purpose
+Purpose :>
 
-To understand how cloud servers work and how applications can be deployed and accessed over the internet.
+-To understand how cloud servers work and how applications can be deployed and accessed over the internet.
